@@ -8,7 +8,7 @@ import time
 
 app = Flask(__name__)
 
-API_KEY = "CTX-TEAM"
+API_KEY = "PSX-AKIRA"
 MAX_WORKERS = 107
 
 def load_tokens(region):
